@@ -1,3 +1,3 @@
 # unit-converter
 
-Module 3 project from Scrimba.
+Module 3 JavaScript project from Scrimba.
